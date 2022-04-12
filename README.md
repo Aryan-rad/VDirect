@@ -7,12 +7,12 @@
 
 #### 2. Set the basic config
 Edit example.env to .env <br />
-Put your db username and password here with DB_DATABASE=jobportal and also set mailtrap details. <br />
+Put your db username and password here with DB_DATABASE=vdirect and also set mailtrap details. <br />
 
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
-    DB_DATABASE=jobportal
+    DB_DATABASE=vdirect
     DB_USERNAME=root
     DB_PASSWORD=
 
