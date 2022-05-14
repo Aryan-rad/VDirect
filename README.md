@@ -1,5 +1,6 @@
 # VDirect
- This project is made in PHP using Laravel Framework.
+ This website is developed in PHP using Laravel framework. Along with database connectivity is planned through MySQL Connection methodology.
+It is a movie streaming website, beside just streaming it allows user to upload movies on website.
 
 # Installation
 
